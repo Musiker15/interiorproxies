@@ -4,10 +4,10 @@
     <startFrom value = "2200"/>
 
     <proxies>
-        <Item>gabz_mrpd_milo</Item>
-        <Item>gabz_mrpd_milo</Item>
-        <Item>gabz_mrpd_milo</Item>
-        <Item>gabz_mrpd_milo</Item>
-        <Item>gabz_mrpd_milo</Item>
+        <Item>gabz_mrpd_milo_</Item>
+        <Item>gabz_mrpd_milo_</Item>
+        <Item>gabz_mrpd_milo_</Item>
+        <Item>gabz_mrpd_milo_</Item>
+        <Item>gabz_mrpd_milo_</Item>
     </proxies>
 </SInteriorOrderData>
